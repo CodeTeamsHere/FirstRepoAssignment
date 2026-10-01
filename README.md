@@ -1,3 +1,3 @@
 # FirstRepoAssignment
 
-I love programming. 
+I love programming. And I like math!
